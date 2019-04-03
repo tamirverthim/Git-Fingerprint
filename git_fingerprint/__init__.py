@@ -4,3 +4,5 @@ __author__ = "Luke Paris (Paradoxis) <luke@paradoxis.nl>"
 
 from git_fingerprint.scanner import Scanner
 from git_fingerprint.exceptions import GitFingerprintException
+
+print("Hello")
